@@ -182,7 +182,7 @@ form button.btn-primary:hover {
 }
 
 .hero .slide-content span {
-  color: #ee1515;
+  color: #073a58;
 }
 
 .hero .slide-content h1 {
@@ -285,7 +285,7 @@ form button.btn-primary:hover {
 .cta-content {
   padding: 30px 0 90px;
   color: #fff;
-  background-color: #ee1515;
+  background-color: #2a2d2e;
   position: relative;
   z-index: 1;
 }
@@ -655,13 +655,13 @@ form button.btn-primary:hover {
     1 - Testimonials
 ------------------------------------*/
 .testimonial-and-clients {
-  background: url(../images/test-clients-bg.png) center center/cover no-repeat #ee1515;
+  background: url(../images/test-clients-bg.png) center center/cover no-repeat #316e82;
 }
 
 .testimonials {
   padding: 95px 0 85px;
   color: #fff;
-  border-bottom: 1px solid #26264b;
+  border-bottom: 1px solid #6A1E55;
 }
 
 .testimonials .test-img {
@@ -915,8 +915,8 @@ span {
     1 - Foot Note
 ------------------------------------*/
 .foot-note {
-  padding: 35px 0;
-  background-color: #ee1515;
+  padding: 20px 0;
+  background-color: gray;
   color: #26264b;
 }
 
